@@ -1,0 +1,12 @@
+{
+    "config": {
+        "dbconfig" :{
+            "db_type": "mongodb",
+            "host_url" : "localhost",
+            "port" : "27017",
+            "dbname": "database",
+            "pool_size": 100,
+            "write_confrim_wait": 1
+        }
+    }
+}
